@@ -12,6 +12,7 @@ Issues are classified into:
 - **Bug**. This class collects all the issues collected to bugs. For example, typos, dataset engineering (e.g. a resource has been wrongly transfored and imported), software problems (e.g. dereferencer not working properly)
 - **Missing links**. This class collects all the issues related to internal linking. For example, a Framester resource is supposed to be linked to another but is not.
 - **Software**. This class collects all the issues related to the need of a sofware tools for engineering, linking, validating, debugging and analysing Framester resources.
+- **General**. This class collets the issues related to the discussion of general strategies for structuring Framester (e.g. conventions for minting URIs, provenance information, named graph architecute and metadata).
 - **Enhancements**. This class collects all the requests to integrate new resources.
 
 ### Labelling issues
