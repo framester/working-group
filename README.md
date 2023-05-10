@@ -1,6 +1,6 @@
 # Framester working group
 
-Welcome to the GitUb repository of the Framester Working Group.
+Welcome to the GitHub repository of the Framester Working Group.
 The aim of this repository is to collect, discuss, schedule, monitor and address issues related to the Framester dataset.
 
 
