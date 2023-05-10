@@ -3,21 +3,26 @@
 Welcome to the GitHub repository of the Framester Working Group.
 The aim of this repository is to collect, discuss, schedule, monitor and address issues related to the Framester dataset.
 
+## Terminology
+
+Framester is a *dataset* collecting and linking several linguistic heterogeneous resources.
+
+
 
 ## Issues
 
 Issues are classified into:
 - **Documentation**. This class collects all the issues related to documentation. For example, the documentation, such as schema description or query examples, of a specific portion of the dataset is missing.
-- **Licensing**. This class collects all the issues related to licensing problems. For exmaple, it is not clear under which a certain portion of the dataset is distributed.
-- **Bug**. This class collects all the issues collected to bugs. For example, typos, dataset engineering (e.g. a resource has been wrongly transfored and imported), software problems (e.g. dereferencer not working properly)
+- **Licensing**. This class collects all the issues related to licensing problems. For example, it is not clear under which a certain portion of the dataset is distributed.
+- **Bug**. This class collects all the issues collected to bugs. For example, typos, dataset engineering (e.g. a resource has been wrongly transformed and imported), software problems (e.g. dereferencer not working properly)
 - **Missing links**. This class collects all the issues related to internal linking. For example, a Framester resource is supposed to be linked to another but is not.
 - **Software**. This class collects all the issues related to the need of a sofware tools for engineering, linking, validating, debugging and analysing Framester resources.
-- **General**. This class collets the issues related to the discussion of general strategies for structuring Framester (e.g. conventions for minting URIs, provenance information, named graph architecute and metadata).
+- **General**. This class collects the issues related to the discussion of general strategies for structuring Framester (e.g. conventions for minting URIs, provenance information, named graph architecture and metadata).
 - **Enhancements**. This class collects all the requests to integrate new resources.
 
 ### Labelling issues
 
-Beside labelling issues with their class is required to classify the issue according to Framester resource it relates to. The reosurces are:
+Besides labelling issues with their class it is required to indicate according to the Framester resource the issue relates to. The reosurces are:
 
 - fschema
 - fdata (materilisation of the framester schema)
