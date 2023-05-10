@@ -14,6 +14,41 @@ Issues are classified into:
 - **Software**. This class collects all the issues related to the need of a sofware tools for engineering, linking, validating, debugging and analysing Framester resources.
 - **Enhancements**. This class collects all the requests to integrate new resources.
 
+### Labelling issues
+
+Beside labelling issues with their class is required to classify the issue according to Framester resource it relates to. The reosurces are:
+
+- fschema
+- fdata (materilisation of the framester schema)
+- adjective-semantics
+- conceptnet
+- dbpedia-fn-mappings
+- dbpedia-wn-mappings
+- deepknownet-rdf
+- dpv2fn
+- emotions
+- exuviae
+- fn-babelnet-mappings
+- fn-mood-mappings
+- fn-wn-skos-based-mappings
+- fn-yago-mappings
+- fn2d0
+- fn2pb
+- fox
+- framenet
+- image_schemas
+- metanet
+- nell2dbpedia
+- now
+- nowp
+- ontowordnet
+- polifonia
+- preponto
+- propbank
+- values
+- verbnet
+- wordnet
+
 ## Monitoring the status of the issues
 
 The status of the issues can be monitored from the [Projects tab](https://github.com/framester/working-group/projects?query=is%3Aopen).
